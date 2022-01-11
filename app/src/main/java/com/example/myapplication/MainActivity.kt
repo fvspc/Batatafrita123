@@ -8,4 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+
+    //TESTE ADICIONAR ESTA LINHA SÓ PARA A FEATURE MERGE CONFLIT
+
+
 }

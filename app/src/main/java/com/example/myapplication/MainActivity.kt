@@ -12,6 +12,4 @@ class MainActivity : AppCompatActivity() {
 
     //TESTE ADICIONAR ESTA LINHA FEATURE AC_001
     //TESTE ADICIONAR ESTA LINHA FEATURE AC_002
-
-
 }

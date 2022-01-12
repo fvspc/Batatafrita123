@@ -8,4 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+
+    //TESTE ADICIONAR ESTA LINHA FEATURE AC_001
+    //TESTE ADICIONAR ESTA LINHA FEATURE AC_002
 }

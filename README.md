@@ -1,1 +1,1 @@
-# Bliss Academey Repo
+# BlissAcademy Repo

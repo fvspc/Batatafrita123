@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    //TESTE ADICIONAR ESTA LINHA SÓ PARA A FEATURE MERGE CONFLIT
+    //TESTE ADICIONAR ESTA LINHA FEATURE AC_002
 
 
 }
